@@ -1,0 +1,15 @@
+/*
+	Hologram by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+*/
+/* Basic */
+body {
+  background-image: url("../../images/bg.jpg");
+  background-size: cover;
+  -ms-behavior: url("assets/js/ie/backgroundsize.min.htc"); }
+  body.landing {
+    background-image: url("../../images/bg.jpg");
+    background-size: cover;
+    -ms-behavior: url("assets/js/ie/backgroundsize.min.htc"); }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3MvaWU4LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBS0E7Ozs7RUFJRTtBQUVGLFdBQVc7QUFFVjtFQUNDLDZDQUE0QztFQUM1Qyx1QkFBc0I7RUFDdEIseURBQXdELEVBT3hEO0VBVkQ7SUFNRSw2Q0FBNEM7SUFDNUMsdUJBQXNCO0lBQ3RCLHlEQUF3RCxFQUN4RCIsImZpbGUiOiJpZTguY3NzIn0= */

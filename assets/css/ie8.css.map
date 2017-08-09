@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "ie8.css",
+	"sources": [
+		"../sass/ie8.scss",
+		"../sass/libs/_vars.scss",
+		"../sass/libs/_functions.scss",
+		"../sass/libs/_mixins.scss",
+		"../sass/libs/_skel.scss"
+	],
+	"names": [],
+	"mappings": "AAKA;;;;EAIE;AAEF,WAAW;AAEV,AAAA,IAAI,CAAC;EACJ,gBAAgB,EAAE,0BAA0B;EAC5C,eAAe,EAAE,KAAK;EACtB,YAAY,EAAE,0CAA0C,GAOxD;EAVD,AAKC,IALG,AAKH,QAAS,CAAC;IACT,gBAAgB,EAAE,0BAA0B;IAC5C,eAAe,EAAE,KAAK;IACtB,YAAY,EAAE,0CAA0C,GACxD"
+}
